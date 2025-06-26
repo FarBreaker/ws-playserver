@@ -27,6 +27,10 @@ Session.vim
 .vs/
 .dir-locals.el
 
+
+./next
+
+
 ## Tool
 .valgrindrc
 .cargo
