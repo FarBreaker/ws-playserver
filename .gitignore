@@ -28,7 +28,9 @@ Session.vim
 .dir-locals.el
 
 
-./next
+.next
+
+target/
 
 
 ## Tool
